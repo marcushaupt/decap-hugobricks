@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on </title>
+    <link>https://www.hugobricks.preview.usecue.com/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.hugobricks.preview.usecue.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>austausch</title>
+      <link>https://www.hugobricks.preview.usecue.com/tags/austausch/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/tags/austausch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mitglied</title>
+      <link>https://www.hugobricks.preview.usecue.com/tags/mitglied/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/tags/mitglied/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>treffen</title>
+      <link>https://www.hugobricks.preview.usecue.com/tags/treffen/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/tags/treffen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mitgliedertreffen</title>
+      <link>https://www.hugobricks.preview.usecue.com/tags/mitgliedertreffen/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/tags/mitgliedertreffen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>https://www.hugobricks.preview.usecue.com/tags/2023/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/tags/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>code</title>
+      <link>https://www.hugobricks.preview.usecue.com/tags/code/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/tags/code/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
